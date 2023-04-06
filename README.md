@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 
-- <b> I'm Oluwabusayomi Stephen (he/him),</b> Bachelors of Science; BIochemistry
+- <b> I'm Oluwabusayomi Stephen (he/him),</b>  **Bachelors of Science; Biochemistry
 
 - I have a passion for finding and fixing bugs in web applications, and have experience doing so as a HackerOne contributor and eager to continue honing my skills in web development and security: **Web development, Back-End Development** 👩🏻‍💻 . 
 
@@ -33,7 +33,8 @@
 
 
 
-<a href="https://twitter.com/dafrabs"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
+<a href="https://twitter.com/dafrabs"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter"></a><a href="mailto:Oluwabusayomidafrabzinator@gmail.com"><img src="https://img.shields.io/badge/get%20in%20touch%20with%20me%20on-email-blue?style=flat&logo=Email"></a>
+
   
 ## Github Stats
 ![](https://raw.githubusercontent.com/dafrabzinator/github_stats/master/generated/overview.svg#gh-dark-mode-only)
