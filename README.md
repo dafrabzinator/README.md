@@ -33,7 +33,8 @@
 
 
 
-<a href="https://twitter.com/dafrabs"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter"></a><a href="mailto:Oluwabusayomidafrabzinator@gmail.com"><img src="https://img.shields.io/badge/get%20in%20touch%20with%20me%20on-email-blue?style=flat&logo=Email"></a>
+<a href="https://twitter.com/dafrabs"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter"></a>
+<a href="mailto:Oluwabusayomidafrabzinator@gmail.com"><img src="https://img.shields.io/badge/get%20in%20touch%20with%20me%20on-email-blue?style=flat&logo=Email"></a>
 
   
 ## Github Stats
