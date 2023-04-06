@@ -5,7 +5,7 @@
 
 - <b> I'm Oluwabusayomi Stephen (he/him),</b> Bachelors of Science; BIochemistry
 
-- I have a passion for finding and fixing bugs in web applications, and have experience doing so as a HackerOne contributor and eager to continue honing my skills in web development and security.": **Web development, Back-End Development** 👩🏻‍💻 . 
+- I have a passion for finding and fixing bugs in web applications, and have experience doing so as a HackerOne contributor and eager to continue honing my skills in web development and security: **Web development, Back-End Development** 👩🏻‍💻 . 
 
 - Worked on projects that provides a scalable, performant, consistent and rich experience to users. 
 
@@ -27,15 +27,15 @@
 
 - Reach out to me on Oluwabusayomidafrabzinator@gmail.com.
 
-<!-- My Skills -->
+## Technical Skills -->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,r,python,react,tailwind,express,nodejs,pandas,mysql,postgres,firebase,git,github&perline=8)](https://skillicons.dev)
 
-<!-- Socials stats -->
+
 
 <a href="https://twitter.com/dafrabs"><img src="https://img.shields.io/badge/follow%20me%20on-twitter-blue?style=flat&logo=twitter">
   
-<!-- Github Stats -->
+## Github Stats
 ![](https://raw.githubusercontent.com/dafrabzinator/github_stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/dafrabzinator/github_stats/master/generated/languages.svg#gh-dark-mode-only)
 
